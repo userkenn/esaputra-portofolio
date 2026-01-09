@@ -23,7 +23,7 @@ function App() {
             <q>Teruslah berjuang dan kembangkan potensi diri. 👌</q>
           </div>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="../public/CV_ESA PUTRA PRIYADIMAS.pdf" download className="bg-violet-700 p-4 rounded-xl hover:bg-violet-600 items-center">
+            <a href="/CV_Esa_Putra_Priyadimas.pdf" download className="bg-violet-700 p-4 rounded-xl hover:bg-violet-600 items-center">
               Download CV <i className="ri-download-line ri-lg ml-1"></i>
             </a>
             <a href="#proyek" className="bg-zinc-700 p-4 rounded-xl hover:bg-zinc-600">
